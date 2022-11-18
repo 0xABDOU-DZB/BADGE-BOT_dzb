@@ -2,9 +2,7 @@
 
 ### ON WINDOWS_DZB
 
-install Node.Js DZB
-https://nodejs.org/en/download/
-Then open windows PowerShell and type:
+**Then open windows PowerShell and type:**
 
 * ```npm install discord.js```
 
